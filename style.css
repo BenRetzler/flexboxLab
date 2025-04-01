@@ -21,4 +21,10 @@ article img {
     max-width: 100%;
     margin-bottom: 1em;
 }
-aside
+aside {
+    padding: 2.0202%;
+    max-width: 200px;
+    min-height: 180px;
+    background-color: #ffebc6;
+    width: 40%;
+}
