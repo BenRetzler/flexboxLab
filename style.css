@@ -9,7 +9,9 @@ ul {
 }
 ul li {
     width: 20%;
-    color: white;
+}
+ul li a {
+    color:white;
 }
 main {
     display:flex;
