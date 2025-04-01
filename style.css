@@ -9,6 +9,7 @@ ul {
 }
 ul li {
     width: 20%;
+    margin:auto;
 }
 ul li a {
     color:white;
